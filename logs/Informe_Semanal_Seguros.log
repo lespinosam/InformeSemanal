@@ -1,0 +1,90 @@
+2018-02-25 13:57:23,361 main  main                 INFO  --------------------------------------------------------------
+2018-02-25 13:57:23,361 main  main                 INFO  Iniciando proceso de generar archivo de vitrineo
+2018-02-25 13:57:23,361 main  main                 INFO  Exception : java.lang.ArrayIndexOutOfBoundsException: Array index out of range: 0
+2018-02-25 13:58:32,382 main  main                 INFO  --------------------------------------------------------------
+2018-02-25 13:58:32,382 main  main                 INFO  Iniciando proceso de generar archivo de vitrineo
+2018-02-25 13:58:32,382 main  main                 INFO  Exception : java.lang.ArrayIndexOutOfBoundsException: Array index out of range: 0
+2018-02-25 13:58:32,382 main  main                 INFO  Saliendo de bloque
+2018-02-25 14:28:54,806 main  main                 INFO  --------------------------------------------------------------
+2018-02-25 14:28:54,806 main  main                 INFO  Iniciando proceso de generar archivo de vitrineo
+2018-02-25 14:28:59,798 main  main                 INFO  No existe argumento que rescatar
+2018-02-25 14:29:27,602 main  main                 ERROR Proceso terminado anormalmente
+java.io.FileNotFoundException: config\config-genera-vitrineo.properties (El sistema no puede encontrar la ruta especificada.)
+	at java.io.FileInputStream.open(Native Method)
+	at java.io.FileInputStream.<init>(FileInputStream.java:149)
+	at java.io.FileInputStream.<init>(FileInputStream.java:108)
+	at cl.cencosud.informesemanal.main.main.main.informe(main.java:44)
+	at cl.cencosud.informesemanal.main.main.main.main(main.java:34)
+2018-02-25 14:41:00,374 main  main                 INFO  --------------------------------------------------------------
+2018-02-25 14:41:00,966 main  main                 INFO  Iniciando proceso de generar archivo de vitrineo
+2018-02-25 14:41:02,637 main  main                 INFO  Comenzando carga de archivo config en variable properties del método Main
+2018-02-25 14:41:53,266 main  main                 ERROR No es posible encontrar el archivo:resources/config.properties
+2018-02-25 14:42:18,681 main  main                 INFO  --------------------------------------------------------------
+2018-02-25 14:42:18,853 main  main                 INFO  Iniciando proceso de generar archivo de vitrineo
+2018-02-25 14:42:19,071 main  main                 INFO  Comenzando carga de archivo config en variable properties del método Main
+2018-02-25 14:42:22,908 main  main                 ERROR No es posible encontrar el archivo:config.properties
+2018-02-25 14:43:10,170 main  main                 INFO  --------------------------------------------------------------
+2018-02-25 14:43:10,357 main  main                 INFO  Iniciando proceso de generar archivo de vitrineo
+2018-02-25 14:43:10,513 main  main                 INFO  Comenzando carga de archivo config en variable properties del método Main
+2018-02-25 14:43:11,636 main  main                 ERROR No es posible encontrar el archivo:config.properties
+2018-02-25 14:46:59,170 main  main                 INFO  --------------------------------------------------------------
+2018-02-25 14:46:59,591 main  main                 INFO  Iniciando proceso de generar archivo de vitrineo
+2018-02-25 14:47:00,075 main  main                 INFO  Comenzando carga de archivo config en variable properties del método Main
+2018-02-25 14:47:41,011 main  main                 ERROR No es posible encontrar el archivo:config.properties
+2018-02-25 14:49:38,783 main  main                 INFO  --------------------------------------------------------------
+2018-02-25 14:49:38,955 main  main                 INFO  Iniciando proceso de generar archivo de vitrineo
+2018-02-25 14:49:39,142 main  main                 INFO  Comenzando carga de archivo config en variable properties del método Main
+2018-02-25 14:49:40,078 main  main                 ERROR No es posible encontrar el archivo:config.properties
+2018-02-25 14:52:06,167 main  main                 INFO  --------------------------------------------------------------
+2018-02-25 14:52:06,427 main  main                 INFO  Iniciando proceso de generar archivo de vitrineo
+2018-02-25 14:52:06,844 main  main                 INFO  Comenzando carga de archivo config en variable properties del método Main
+2018-02-25 14:52:38,121 main  main                 ERROR No es posible encontrar el archivo:/config.properties
+2018-02-25 14:55:16,838 main  main                 INFO  --------------------------------------------------------------
+2018-02-25 14:55:16,839 main  main                 INFO  Iniciando proceso de generar archivo de vitrineo
+2018-02-25 14:55:16,839 main  main                 INFO  Comenzando carga de archivo config en variable properties del método Main
+2018-02-25 14:55:16,840 main  main                 ERROR No es posible encontrar el archivo:config.properties
+2018-02-25 14:56:34,608 main  main                 INFO  --------------------------------------------------------------
+2018-02-25 14:56:34,783 main  main                 INFO  Iniciando proceso de generar archivo de vitrineo
+2018-02-25 14:56:34,960 main  main                 INFO  Comenzando carga de archivo config en variable properties del método Main
+2018-02-25 14:56:49,286 main  main                 ERROR No es posible encontrar el archivo:config.properties
+2018-02-25 14:57:42,255 main  main                 INFO  --------------------------------------------------------------
+2018-02-25 14:57:42,256 main  main                 INFO  Iniciando proceso de generar archivo de vitrineo
+2018-02-25 14:57:42,256 main  main                 INFO  Comenzando carga de archivo config en variable properties del método Main
+2018-02-25 14:57:42,257 main  main                 ERROR Se produjo por :java.io.FileNotFoundException: config\config-genera-vitrineo.properties (El sistema no puede encontrar la ruta especificada.)
+2018-02-25 14:58:08,030 main  main                 INFO  --------------------------------------------------------------
+2018-02-25 14:58:08,267 main  main                 INFO  Iniciando proceso de generar archivo de vitrineo
+2018-02-25 14:58:08,491 main  main                 INFO  Comenzando carga de archivo config en variable properties del método Main
+2018-02-25 14:59:24,703 main  main                 INFO  --------------------------------------------------------------
+2018-02-25 14:59:25,007 main  main                 INFO  Iniciando proceso de generar archivo de vitrineo
+2018-02-25 14:59:25,435 main  main                 INFO  Comenzando carga de archivo config en variable properties del método Main
+2018-02-25 15:00:34,607 main  main                 INFO  --------------------------------------------------------------
+2018-02-25 15:00:34,765 main  main                 INFO  Iniciando proceso de generar archivo de vitrineo
+2018-02-25 15:00:34,922 main  main                 INFO  Comenzando carga de archivo config en variable properties del método Main
+2018-02-25 15:33:45,526 main  main                 INFO  --------------------------------------------------------------
+2018-02-25 15:33:45,530 main  main                 INFO  Iniciando proceso de generar archivo de vitrineo
+2018-02-25 15:33:45,530 main  main                 INFO  Comenzando carga de archivo config en variable properties del método Main
+2018-02-25 15:35:20,486 main  main                 INFO  ********INPUT A INGRESAR*********
+2018-02-25 15:35:20,487 main  main                 INFO  Fecha Inicial :
+2018-02-25 15:35:20,487 main  main                 INFO  Fecha Final :
+2018-02-25 15:35:20,487 main  main                 INFO  
+2018-02-25 15:35:37,310 main  main                 INFO  --------------------------------------------------------------
+2018-02-25 15:35:37,311 main  main                 INFO  Iniciando proceso de generar archivo de vitrineo
+2018-02-25 15:35:37,312 main  main                 INFO  Comenzando carga de archivo config en variable properties del método Main
+2018-02-25 15:37:21,873 main  main                 INFO  ********INPUT A INGRESAR*********
+2018-02-25 15:37:21,874 main  main                 INFO  Fecha Inicial :
+2018-02-25 15:37:21,874 main  main                 INFO  Fecha Final :
+2018-02-25 15:37:21,874 main  main                 INFO  
+2018-02-25 15:37:27,083 main  main                 INFO  --------------------------------------------------------------
+2018-02-25 15:37:27,084 main  main                 INFO  Iniciando proceso de generar archivo de vitrineo
+2018-02-25 15:37:27,084 main  main                 INFO  Comenzando carga de archivo config en variable properties del método Main
+2018-02-25 15:44:45,563 main  main                 INFO  ********INPUT A INGRESAR*********
+2018-02-25 15:44:45,564 main  main                 INFO  Fecha Inicial :
+2018-02-25 15:44:45,564 main  main                 INFO  Fecha Final :
+2018-02-25 15:44:45,564 main  main                 INFO  
+2018-02-25 15:53:31,107 main  main                 INFO  --------------------------------------------------------------
+2018-02-25 15:53:31,108 main  main                 INFO  Iniciando proceso de generar archivo de vitrineo
+2018-02-25 15:53:31,108 main  main                 INFO  Comenzando carga de archivo config en variable properties del método Main
+2018-02-25 15:53:40,950 main  main                 INFO  ********INPUT A INGRESAR*********
+2018-02-25 15:53:40,950 main  main                 INFO  Fecha Inicial :
+2018-02-25 15:53:40,950 main  main                 INFO  Fecha Final :
+2018-02-25 15:53:40,950 main  main                 INFO  ********FIN INGRESAR*********

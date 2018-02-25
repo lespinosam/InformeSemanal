@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE log4j:configuration SYSTEM "log4j.dtd" >
+<log4j:configuration>
+    
+    <appender name="informesemanal" class="org.apache.log4j.RollingFileAppender">
+    	<param name="file" value="logs/Informe_Semanal_Seguros.log" />
+    	<param name="Append" value="true"/>
+    	<param name="MaxFileSize" value="2MB"/>
+    	<param name="MaxBackupIndex" value="10" />
+		<layout class="org.apache.log4j.PatternLayout">
+			<param name="ConversionPattern" value="%d{ISO8601} %t %x %-20c{1} %-5p %m%n"/>
+		</layout>
+    </appender>
+
+	<logger name="cl.cencosud.informesemanal.main.main">
+		<level value="info"/>
+		<appender-ref ref="informesemanal"/>
+	</logger>
+	<logger name="cl.cencosud.informesemanal.service.semanalServiceImpl">
+		<level value="info"/>
+		<appender-ref ref="informesemanal"/>
+	</logger>
+
+	<root>
+	    <priority value="error"/>
+	</root>	
+</log4j:configuration>
